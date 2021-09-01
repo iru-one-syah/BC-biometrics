@@ -1,8 +1,6 @@
 # Identify yourself with bone-conducted sound
 
-## Cross-Talk ID
-
-This dataset was used in a recent conference paper: "Evaluation of Bone-Conducted Cross-Talk Sound in the Head for Biometric Identification" (under review).
+This dataset was used in a recent conference paper: "*Evaluation of Bone-Conducted Cross-Talk Sound in the Head for Biometric Identification*" (under review).
 
 - [DEMO: Identify yourself with bone-conducted sound](https://youtu.be/LQtHSgGGkHc)
 
