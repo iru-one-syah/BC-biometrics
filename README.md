@@ -1,4 +1,4 @@
-# Cross-Talk ID - User Identification
+# Identify yourself with bone-conducted sound
 
 This dataset was used in a recent conference paper: "........" (under review).
 
